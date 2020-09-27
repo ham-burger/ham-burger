@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](<mailto:devkudou@gmail.com>)
 <!--
 **ham-burger/ham-burger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
