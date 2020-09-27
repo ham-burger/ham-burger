@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-https://github.com/alexandresanlim/Badges4-README.md-Profile
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ham-burger&count_private=true&theme=dark&layout=compact)
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/derakudo) [![](https://img.shields.io/badge/blog-FF0000?style=for-the-badge)](https://hamburger.hatenablog.jp/)
 
