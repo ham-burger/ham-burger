@@ -1,5 +1,1 @@
-- [twitter](https://twitter.com/derakudo)
-- [linkedin](https://www.linkedin.com/in/kotaro-kudo/)
-- [hatena](https://hamburger.hatenablog.jp/)
-- [zenn](https://zenn.dev/kudo)
-- [qiita](https://zenn.dev/kudo)
+
